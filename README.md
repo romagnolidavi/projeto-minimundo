@@ -13,7 +13,6 @@ O banco foi modelado em PostgreSQL e atende aos requisitos definidos no minimund
 - **3_Banco/**  
   - `criacao.sql` → Script de criação do banco.  
   - `inserts.sql` → Dados de teste para rodar consultas.  
-  - `dump.sql` → Backup completo (estrutura + dados).  
 - **4_Consultas/** → Consultas SQL pedidas no enunciado.
 
 ---
